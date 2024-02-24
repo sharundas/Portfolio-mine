@@ -1,0 +1,43 @@
+.skill-section {
+  width: 100%;
+
+  align-items: center;
+  padding-bottom: 80px;
+  margin: 0px 0px;
+}
+
+.skill-icon {
+  border-radius: 30px;
+  margin-left: 40px;
+  margin-top: 25px;
+  border: 5px rgb(21, 88, 171) solid;
+  background: #c03553;
+  box-shadow: 0 0 5px #d72c51, 0 0 25px #d34463, 0 0 50px #792134,
+    0 0 200px #e4244d;
+}
+
+.skill-hr {
+  color: rgb(246, 4, 4);
+  border: 4px rgb(62, 4, 40) solid;
+}
+
+.skill-card {
+  display: flex;
+  display: inline;
+  flex: 1;
+}
+
+.skill-heading {
+  color: rgb(175, 139, 157);
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.skill-paragraph {
+  color: rgb(191, 216, 213);
+  margin-top: 10px;
+}
+
+.skill-span {
+  color: rgb(231, 11, 51);
+}

@@ -1,0 +1,37 @@
+.button-1 {
+  outline: #c50431 solid 4px;
+  border: none;
+  color:rgb(90, 109, 6);
+  font-weight: bold;
+  padding: 10px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 2px 4px 10px;
+  cursor: pointer;
+  border-radius: 22px;
+  transition: all 0.5s ease;
+}
+
+.button-1:hover {
+  background: #ff96ad;
+  box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad,0 0 50px #ff96ad, 0 0 200px #ff96ad;
+}
+
+.navbar-img {
+  border: #0bd8dc 2px solid;
+  margin-right:20px ;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #97263f, 0 0 25px #9d1f3c,0 0 50px #9b1d36,
+   0 0 200px #8f203a;
+}
+.icon-twitter {
+  color: rgb(219, 234, 234);
+  font-size: 50px;
+  border: 3px solid rgb(240, 225, 225);
+  border-radius:25px ;
+  box-shadow: 0 0 5px #99dde6, 0 0 25px #589cc0,0 0 50px #4583b0,
+   0 0 200px #4a76b1;
+}
+
